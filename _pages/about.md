@@ -6,12 +6,11 @@ subtitle: <a href='#'>Chittagong University of Engineeering and Technology</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pro_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>163 Saco St, Apt 3</p>
+    <p>Westbrook, Maine 04092</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
