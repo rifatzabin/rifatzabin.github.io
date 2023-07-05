@@ -6,7 +6,7 @@ subtitle: <a href='#'>Chittagong University of Engineeering and Technology</a>. 
 
 profile:
   align: right
-  image: pro_pic.jpeg
+  image: adity.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>163 Saco St, Apt 3</p>
