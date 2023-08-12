@@ -18,6 +18,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 <br>
 
+I have completed my B.S in ECE from <a href='#'>Chittagong University of Engineeering and Technology</a>, in 2022. My research focus is in  apllied Machine Learning and Deep Learning in a wide range of fields including Power System, Biomedical imaging, and Computer Vision. It also includes embedded and IoT systems. 
 
-I have graduated from Chittagong University of Engineering and Technology (CUET) in the year 2022. My major is Electrical and Electronic Engineering (EEE). I am currently seeking for research assistantship on my relevant research interest. It relates to Machine Learning and Deep Learning in Power System and Biomedical Resources, Computer Vision, Cyber Security. It also includes wireless protocol to some extent.
+**I am actively lokking for Ph.D position in relevant research fields.**
 
