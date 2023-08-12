@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-I have completed my B.S in ECE from <a href='#'>Chittagong University of Engineeering and Technology</a>, in 2022. My research focus is in  apllied Machine Learning and Deep Learning in a wide range of fields including Power System, Biomedical imaging, and Computer Vision. It also includes embedded and IoT systems. 
+I have completed my B.S in ECE from <a href='#'>Chittagong University of Engineeering and Technology</a>, Bangladesh in 2022. My research focus is in  apllied Machine Learning and Deep Learning in a wide range of fields including Power System, Biomedical imaging, and Computer Vision. It also includes embedded and IoT systems. 
 
 **I am actively lokking for Ph.D position in relevant research fields.**
 
