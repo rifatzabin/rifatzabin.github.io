@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc., <a href='#'>Chittagong University of Engineeering and Technology</a>, Bangladesh.
+subtitle:
 
 profile:
   align: right
