@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PredXGBR
-description:
+description: PredXGBR PredXGBR PredXGBR
 img: assets/img/project1.jpg
 importance: 1
 category: Research
