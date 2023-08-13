@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PredXGBR
+title: Pred_XGBR
 description: A Machine Learning based Short term Electrical Load Forecasting Architecture
 img: assets/img/project1.jpg
 importance: 1
