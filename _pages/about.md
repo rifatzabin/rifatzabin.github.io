@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 <br>
 <br>
+I am currently pursuing an M.Sc. in Computer Science and Engineering at <a href='#'> BRAC University<a>, specializing in Artificial Intelligence and Machine Learning (expected graduation: December 2025). My research focuses on Integrated Sensing and Communication (ISAC) and its Security, Machine and Deep Learning, Internet of Things (IoT), Distributed Systems, and Computer Vision, with applications spanning wireless networking, medical imaging, and intelligent sensing.
 
-I have completed my B.S in ECE from <a href='#'>Chittagong University of Engineeering and Technology</a>, Bangladesh in 2022. My research focus is in  apllied Machine Learning and Deep Learning in a wide range of fields including Power System, Biomedical imaging, and Computer Vision. It also includes embedded and IoT systems. 
-
-**I am actively lokking for Ph.D position in relevant research fields.**
+Earlier, I had completed my B.Sc in EEE from <a href='#'>Chittagong University of Engineeering and Technology</a>, Bangladesh in 2022, majoring in Power Systems. Over the course of my academic and collaborative research journey, I have aimed to develop the ability to conduct quality research and to explore diverse applications of AI and wireless systems.
+**I am actively lokking for Ph.D position in relevant and interdisciplinary research fields.**
 
