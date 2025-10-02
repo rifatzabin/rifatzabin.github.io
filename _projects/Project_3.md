@@ -2,7 +2,7 @@
 layout: page
 title: PULSE
 description: Prototype-Guided Learning of Temporal CSI Features for Few-Shot Activity Recognition
-img: assets/img/Pulse Framework.pdf
+img: assets/img/Pulse_Framework.jpg
 importance: 1
 category: Research
 ---
@@ -13,14 +13,14 @@ frame energy—over short windows; a compact 1D-CNN learns 128-D embeddings.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Pulse Framework.pdf" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Pulse_Framework.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
    Workflow of PULSE
 </div>
 
-
+----
 
 
 <div class="row">
