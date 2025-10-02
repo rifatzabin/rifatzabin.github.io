@@ -3,7 +3,7 @@ layout: page
 title: PULSE
 description: Prototype-Guided Learning of Temporal CSI Features for Few-Shot Activity Recognition
 img: assets/img/Pulse_Framework.jpg   # Thumbnail image shown in project list
-importance: 2
+importance: 3
 category: Research
 ---
 
