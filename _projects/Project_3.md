@@ -11,7 +11,7 @@ We present **PULSE**, a lightweight pipeline for activity recognition from Wi-Fi
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/Pulse_Framework.png" title="PULSE Framework" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Pulse_Framework.jpg" title="PULSE Framework" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
